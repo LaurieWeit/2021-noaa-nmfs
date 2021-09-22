@@ -27,4 +27,12 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](https://github.com/Openscapes/series/blob/master/img/practicalDev_changingstuff.jpg)
 
+Trying to make **bold text that really makes it jump!**.
+And I'll try some scientific names, Like coho salmon, (*Oncorhynchus kisutch*) to see how it works.
+So I'll make a list for this
+1. finish class
+2. talk to Wayne
 
+Next thing.
+Adding a page link. [https://yearofthesalmon.org/gulf-of-alaska-expedition-2/]
+![.](https://yearofthesalmon.org/gulf-of-alaska-expedition-2/)
